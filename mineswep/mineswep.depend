@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1520050616 source:c:\users\vlad\documents\codeblocks\mineswep\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+

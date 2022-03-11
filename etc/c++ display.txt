@@ -1,0 +1,20 @@
+HANDLE handle=GetStdHandle(STD_OUTPUT_HANDLE);
+SetConsoleTextAttribute(handle, color);
+
+string screen;
+
+void display2(int color)
+{
+    SetConsoleTextAttribute(handle, color);
+    cout<<screen;
+    screen.clear();
+}
+
+
+COORD zerozero={0,0};
+    CONSOLE_CURSOR_INFO crsvis;
+    crsvis.bVisible = 0,crsvis.dwSize = 1;
+    SetConsoleCursorInfo(handle, &crsvis);
+
+
+SetConsoleCursorPosition( handle, zerozero );

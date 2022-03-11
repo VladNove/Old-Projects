@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1568483459 source:c:\users\vlad\documents\codeblocks\spacegame\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

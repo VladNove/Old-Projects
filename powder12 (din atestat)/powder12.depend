@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1569077338 source:c:\users\vlad\documents\codeblocks\powder12\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

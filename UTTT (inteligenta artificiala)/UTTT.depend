@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1577289623 source:c:\users\vlad\documents\codeblocks\uttt\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,5 @@
+
+dimensiune 10
+nr mine 10
+
+arrow keys ; enter ; control

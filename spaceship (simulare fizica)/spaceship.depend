@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1583786236 source:c:\users\vlad\documents\codeblocks\spaceship\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+

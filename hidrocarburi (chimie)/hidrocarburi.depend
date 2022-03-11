@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544061494 source:c:\users\vlad\documents\codeblocks\hidrocarburi\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+
