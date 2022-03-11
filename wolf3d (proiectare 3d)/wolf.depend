@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1583770480 source:c:\users\vlad\documents\codeblocks\wolf\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
